@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Task6.task6.linkedin_logout">
+        <methods>
+          <include name="driver_exe"/>
+          <include name="driver_exit"/>
+          <include name="Login"/>
+          <include name="linked_logout_f"/>
+        </methods>
+      </class> <!-- Task6.task6.linkedin_logout -->
+      <class name="Task6.task6.linked_in_upload_profile_image">
+        <methods>
+          <include name="driver_exe"/>
+          <include name="upload_Profile_Image"/>
+          <include name="driver_exit"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- Task6.task6.linked_in_upload_profile_image -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

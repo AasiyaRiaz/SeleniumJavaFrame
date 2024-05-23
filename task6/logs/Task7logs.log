@@ -1,0 +1,5 @@
+[TRACE] 2024-03-28 15:07:57.600 [main] Log4jTask7 - This is trace message
+[INFO ] 2024-03-28 15:07:57.607 [main] Log4jTask7 - This is info message
+[ERROR] 2024-03-28 15:07:57.608 [main] Log4jTask7 - This is an error message
+[WARN ] 2024-03-28 15:07:57.608 [main] Log4jTask7 - This is a warning message
+[FATAL] 2024-03-28 15:07:57.609 [main] Log4jTask7 - This is a fatal message

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="LinkedIn_Suite">
+ 
+  <test name="Upload profile">
+    <classes>
+
+      <class name="Task6.task6.linked_in_upload_profile_image"/>
+       <class name="Task6.task6.linkedin_logout"/>
+      
+    </classes>
+  </test> 
+ 
+</suite> 

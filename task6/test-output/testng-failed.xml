@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [LinkedIn_Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Upload profile(failed)">
+    <classes>
+      <class name="Task6.task6.linkedin_logout">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="afterMethodmethod"/>
+          <include name="linked_logout_f"/>
+          <include name="beforemethodMethod"/>
+        </methods>
+      </class> <!-- Task6.task6.linkedin_logout -->
+    </classes>
+  </test> <!-- Upload profile(failed) -->
+</suite> <!-- Failed suite [LinkedIn_Suite] -->
